@@ -2,4 +2,4 @@
 
 ### Changed up version. Similar but dissimilar 
 
-view:
+view:  https://claudegose.github.io/guessing-game-2/
